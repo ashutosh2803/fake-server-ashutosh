@@ -1,4 +1,6 @@
 {
+  "total_pages": 2,
+  "totol": 11,
   "products": [  
     { "name" : "SmartPhone", 
       "price": 20000,
@@ -44,6 +46,11 @@
     { "name" : "Home Theatre",
       "price" : 35000,
       "id" : 10
+    },
+    {
+      "name": "Jackets",
+      "price": 1500,
+      "id": 11
     }
   ]
 }
