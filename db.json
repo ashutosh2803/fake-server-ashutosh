@@ -1,9 +1,49 @@
 {
-  "tasks": [  
-    {
-      "id": 1,
-      "title": "Buy Milk",
-      "status": false
+  "products": [  
+    { "name" : "SmartPhone", 
+      "price": 20000,
+       "id" : 0
+    }, 
+    { 
+      "name" : "Watch",
+      "price" : 3000,
+      "id" : 1
+    },
+    { "name" : "Shirt",
+      "price" : 1000,
+      "id" : 2
+    },
+    { "name" : "Pants",
+      "price" : 1500,
+      "id" : 3
+    },
+    { "name" : "Laptop",
+      "price" : 60000,
+      "id" : 4
+    },
+    { "name" : "Headphones",
+      "price" : 500,
+      "id" : 5
+    },
+    { "name" : "Shoes",
+      "price" : 2000,
+      "id" : 6
+    },
+    { "name" : "Accessories",
+      "price" : 600,
+      "id" : 7
+    },
+    { "name" : "Health Suppliments",
+      "price" : 1000,
+      "id" : 8
+    },
+    { "name" : "Gaming Consoles",
+      "price" : 25000,
+      "id" : 9
+    },
+    { "name" : "Home Theatre",
+      "price" : 35000,
+      "id" : 10
     }
   ]
 }
