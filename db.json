@@ -2,53 +2,89 @@
   "products": [  
     { "name" : "SmartPhone", 
       "price": 20000,
-       "id" : 0
+       "id" : 0,
+       "category": "Electronics"
     }, 
     { 
       "name" : "Watch",
       "price" : 3000,
-      "id" : 1
+      "id" : 1,
+      "category": "Accessories"
     },
     { "name" : "Shirt",
       "price" : 1000,
-      "id" : 2
+      "id" : 2,
+      "category": "Clothing"
     },
     { "name" : "Pants",
       "price" : 1500,
-      "id" : 3
+      "id" : 3,
+      "category": "Clothing"
     },
     { "name" : "Laptop",
       "price" : 60000,
-      "id" : 4
+      "id" : 4,
+      "category": "Electronics"
     },
     { "name" : "Headphones",
       "price" : 500,
-      "id" : 5
+      "id" : 5,
+      "category": "Electronics"
     },
     { "name" : "Shoes",
       "price" : 2000,
-      "id" : 6
+      "id" : 6,
+      "category": "FootWear"
     },
-    { "name" : "Accessories",
+    { "name" : "First Aid Kit",
       "price" : 600,
-      "id" : 7
+      "id" : 7,
+      "category": "Health"
     },
     { "name" : "Health Suppliments",
       "price" : 1000,
-      "id" : 8
+      "id" : 8,
+      "category": "Health"
     },
     { "name" : "Gaming Consoles",
       "price" : 25000,
-      "id" : 9
+      "id" : 9,
+      "category": "Electronics"
     },
     { "name" : "Home Theatre",
       "price" : 35000,
-      "id" : 10
+      "id" : 10,
+      "category": "Appliances"
     },
     {
-      "name": "Jackets",
-      "price": 1500,
-      "id": 11
+      "name": "Refrigerator",
+      "price": 15000,
+      "id": 11,
+      "category": "Appliances"
+    },
+    {
+      "name": "Blankets",
+      "price": 4000,
+      "id": 12,
+      "category": "Home"
+    },
+    {
+      "name": "Child Care",
+      "price": 15000,
+      "id": 13,
+      "category": "Kids, Toys"
+    },
+    {
+      "name": "Gift Cards",
+      "price": 15000,
+      "id": 14,
+      "category": "Stationary"
+    },
+    {
+      "name": "Grocery",
+      "price": 1200,
+      "id": 15,
+      "category": "Grocery"
     }
   ]
 }
