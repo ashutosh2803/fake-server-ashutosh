@@ -86,5 +86,12 @@
       "id": 15,
       "category": "Grocery"
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "status": false
+    }
   ]
 }
