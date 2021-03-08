@@ -110,6 +110,62 @@
      "state": "Delhi",
      "school": "St. Xaviers High School",
       "dob": "13-07-1997" 
+    },
+    {
+      "name": "Neha Sharma", 
+      "score": 82,
+      "gender": "Female",
+     "state": "West Bengal",
+     "school": "Carmel Girls School",
+      "dob": "22-05-1998" 
+    },
+    {
+      "name": "Rituraj Vats", 
+      "score": 68,
+      "gender": "Male",
+     "state": "Gujarat",
+     "school": "St. Pauls High School",
+      "dob": "17-04-1999" 
+    },
+    {
+      "name": "Advait Diyali", 
+      "score": 66,
+      "gender": "Male",
+     "state": "Assam",
+     "school": "Little Flower High School",
+      "dob": "03-11-1997" 
+    },
+    {
+      "name": "Rashmi Viraj", 
+      "score": 73,
+      "gender": "Female",
+     "state": "Uttar Pradesh",
+     "school": "Vasant Bihar High School",
+      "dob": "06-10-1997" 
+    },
+    {
+      "name": "Vivek Das", 
+      "score": 90,
+      "gender": "Male",
+     "state": "Orissa",
+     "school": "Sunflower High School",
+      "dob": "08-01-1997" 
+    },
+    {
+      "name": "Shishir Ranjan", 
+      "score": 84,
+      "gender": "Male",
+     "state": "Uttarakhand",
+     "school": "Mount Carmel High School",
+      "dob": "15-02-2000" 
+    },
+    {
+      "name": "Isha Banerjee", 
+      "score": 78,
+      "gender": "Female",
+     "state": "West Bengal",
+     "school": "New Kolkata High School",
+      "dob": "22-07-1999" 
     }
   ]
 }
