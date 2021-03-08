@@ -93,5 +93,23 @@
       "title": "Task 1",
       "status": false
     }
+  ],
+  "students": [
+    {
+      "name": "Ashutosh Kumar", 
+      "score": 85,
+      "gender": "Male",
+     "state": "Bihar",
+     "school": "Delhi Public School",
+      "dob": "28-03-1998" 
+    },
+    {
+      "name": "Aman Singh", 
+      "score": 70,
+      "gender": "Male",
+     "state": "Delhi",
+     "school": "St. Xaviers High School",
+      "dob": "13-07-1997" 
+    }
   ]
 }
