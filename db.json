@@ -1030,6 +1030,13 @@
       }
   ],
   "users": [
-    
+    {
+      "name": "Ashutosh Kumar",
+      "dob": "28-03-1998",
+      "gender": "Male",
+      "email": "ashuisalive@gmail.com",
+      "password": "password",
+      "username": "ashu2803"
+    }
   ]
 }
