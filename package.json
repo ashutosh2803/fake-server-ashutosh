@@ -11,5 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh2803/fake-server-ashutosh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashutosh2803/fake-server-ashutosh/issues"
+  },
+  "homepage": "https://github.com/ashutosh2803/fake-server-ashutosh#readme"
 }
